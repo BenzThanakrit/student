@@ -1,2 +1,17 @@
 # student
-Intreoduction
+Name student
+135 Kamonchanok
+148 Jaruwan
+147 Jarukan
+160 Chatree
+165 Natchapon
+170 Thanakrit
+175 Theerasak
+176 Natakorn
+180 Napharat
+182 Navaketh 
+185 Boonyarit
+190 Patimakorn
+192 Piyapath
+194 Pongsakorn
+198 Patcharanan
